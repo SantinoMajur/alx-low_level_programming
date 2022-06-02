@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc main.c -o wc -l c 
+gcc -E $CFILE > wc -l c
