@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -c no_link.c -o no_link.o
