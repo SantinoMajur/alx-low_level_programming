@@ -9,7 +9,7 @@ int last_digit(int num);
 int main(void)
 {
   int n, lastDigit;
-  char mystr[] = "last digit of ";
+  char mystr[] = "Last digit of ";
 
   srand(time(0));
   n = rand() - RAND_MAX / 2;
