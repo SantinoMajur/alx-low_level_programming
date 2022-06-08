@@ -10,8 +10,8 @@ int print_putchar(void)
 
 	for (i = 0; i < 8; i++)
 	{
-		_putchar(myChar[i]);
+		putchar(myChar[i]);
 	}
-	_putchar('\n');
+	putchar('\n');
 	return (0);
 }
