@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print_putchar - prints characters _putchar
+ * main - prints characters _putchar
  * Return: (0) always
  */
-int print_putchar(void)
+int main(void)
 {
 	int i;
 	char myChar[9] = "_putchar";
