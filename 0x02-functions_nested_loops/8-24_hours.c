@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * jack_bauer - function that prints every minute of the day, 24 hour clock
- * 
  * nested for loop breaks before passing 24:00
  * Return: 24 hour clock line by line
  */
