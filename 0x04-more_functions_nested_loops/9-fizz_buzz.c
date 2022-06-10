@@ -10,7 +10,7 @@
  */
 int main(void)
 {
-	int 1;
+	int i;
 	char fz[] = "Fizz";
 	char bz[] = "Buzz";
 	char fbz[] = "FizzBuzz";
