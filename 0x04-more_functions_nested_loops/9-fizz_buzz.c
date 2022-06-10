@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 /**
  * main - print numbers from 1 to 100 followed by a newline
  * multiples of 3 print Fizz instead of number
@@ -19,33 +19,23 @@ int main(void)
 	{
 		if (i == 100)
 		{
-			putchar(' ');
 			printf("%s ", bz);
-			putchar(' ');
 		}
 		else if ((i % 3 == 0) && (i % 5 == 0))
 		{
-			putchar(' ');
 			printf("%s ", fbz);
-			putchar(' ');
 		}
 		else if (i % 3 == 0)
 		{
-			putchar(' ');
 			printf("%s ", fz);
-			putchar(' ');
 		}
 		else if (i % 5 == 0)
 		{
-			putchar(' ');
 			printf("%s ", bz);
-			putchar(' ');
 		}
 		else
 		{
-			putchar(' ');
 			printf("%d ", i);
-			putchar(' ');
 		}
 	}
 	printf("\n");
