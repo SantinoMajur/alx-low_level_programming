@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - print numbers from 1 to 100 followed by a newline
  * multiples of 3 print Fizz instead of number
@@ -11,32 +10,19 @@
 int main(void)
 {
 	int i;
-	char fz[] = "Fizz";
-	char bz[] = "Buzz";
-	char fbz[] = "FizzBuzz";
 
 	for (i = 1; i <= 100; i++)
 	{
 		if (i == 100)
-		{
-			printf("%s ", bz);
-		}
+			printf("Buzz ");
 		else if ((i % 3 == 0) && (i % 5 == 0))
-		{
-			printf("%s ", fbz);
-		}
+			printf("FizzBuzz ");
 		else if (i % 3 == 0)
-		{
-			printf("%s ", fz);
-		}
+			printf("Fizz ");
 		else if (i % 5 == 0)
-		{
-			printf("%s ", bz);
-		}
+			printf("Buzz ");
 		else
-		{
 			printf("%d ", i);
-		}
 	}
 	printf("\n");
 	return (0);
