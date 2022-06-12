@@ -1,18 +1,22 @@
 #include <stdio.h>
 #include <ctype.h>
-
+/**
+ * main - prints alphabets in lowercase and in uppercase followed by a newline
+ *
+ * Return: always 0
+ */
 int main(void)
 {
-  char myChar;
+	char c;
 
-  for (myChar = 'a'; myChar <= 'z'; myChar++)
-    {
-      putchar(myChar);
-    }
-  for(myChar = 'A'; myChar <= 'Z'; myChar++)
-    {
-      putchar(myChar);
-    }
-  putchar('\n');
-  return (0);
+	for (c = 'a'; c <= 'z'; c++)
+	{
+		putchar(c);
+	}
+	for (c = 'A'; c <= 'Z'; c++)
+	{
+		putchar(c);
+	}
+	putchar('\n');
+	return (0);
 }
