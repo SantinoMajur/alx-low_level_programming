@@ -5,7 +5,7 @@
  * @src: second input
  * @n: third input
  *
- * Return: strings
+ * Return: address of dest
  */
 char *_strncpy(char *dest, char *src, int n)
 {
@@ -19,7 +19,7 @@ char *_strncpy(char *dest, char *src, int n)
 	}
 	while (i < n)
 	{
-		*(dest + 1) = '\0';
+		*(dest + i) = '\0';
 		i++;
 	}
 	return (dest);
