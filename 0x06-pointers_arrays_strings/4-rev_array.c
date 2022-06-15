@@ -4,19 +4,19 @@
  * @a: first input
  * @n: second inpt
  *
- * Return: n number of arrays
+ * Return: void
  */
 void reverse_array(int *a, int n);
 {
-	int i, j = 0;
+	int i = 0, j;
 
 	n = n - 1;
-	while (j < n)
+	while (i < n)
 	{
-		i = *(a + j);
-		*(a + j) = *(a + n);
-		*(a + n) = i;
-		j++;
+		j = *(a + i);
+		*(a + i) = *(a + n);
+		*(a + n) = j;
+		i++;
 		n--;
 	}
 }
