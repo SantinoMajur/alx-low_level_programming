@@ -34,4 +34,4 @@ This sub module of the ALX Low Level Programming introduces advanced concepts ab
 - [print_line]()
 - [print_diagonal]()
 - [print_square]()
-- [fizz_buz()
+- [fizz_buz]()
