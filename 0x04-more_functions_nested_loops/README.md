@@ -25,13 +25,13 @@ This sub module of the ALX Low Level Programming introduces advanced concepts ab
 
 - [isupper]()
 - [isdigit]()
-- [print_triangle]
-- [prime_factor]
-- [mul]
-- [print_numbers]
-- [print_most_numbers]
-- [more_numbers]
-- [print_line]
-- [print_diagonal]
-- [print_square]
-- [fizz_buz
+- [print_triangle]()
+- [prime_factor]()
+- [mul]()
+- [print_numbers]()
+- [print_most_numbers]()
+- [more_numbers]()
+- [print_line]()
+- [print_diagonal]()
+- [print_square]()
+- [fizz_buz()
