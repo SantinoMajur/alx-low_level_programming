@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdio.h>
+#include <stdlib.h>
 /**
  * main - adds positive numbers
  * @argc: number of arguments passed
@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 			printf("Error\n");
 			return (1);
 		}
-		res = res + j;
+		res += j;
 	}
 	printf("%d\n", res);
 	return (0);
