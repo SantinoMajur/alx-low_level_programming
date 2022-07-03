@@ -27,6 +27,7 @@ The module is one of the foundational curriculum to the ALX Software Engineering
 - [0x09-static_libraries](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x09-static_libraries)
 - [0x0A-argc_argv](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0A-argc_argv)
 - [0x0B-malloc_free](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0B-malloc_free)
+- [0x0C-more_malloc_free](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
 
 ## Author
 
