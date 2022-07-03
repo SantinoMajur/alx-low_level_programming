@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * main - multiplies two numbers
  * @argc: number of arguments passed
@@ -12,7 +13,7 @@ int main(int argc, char *argv[])
 
 	if (argc != 3)
 	{
-		puts("Error");
+		puts("Error\n");
 		return (1);
 	}
 	i = strtol(argv[1], NULL, 10);
