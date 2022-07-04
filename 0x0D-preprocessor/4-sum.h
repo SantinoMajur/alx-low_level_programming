@@ -1,10 +1,10 @@
 #ifndef SUM_H
 #define SUM_H
-
-/*
+/**
  * File: 4-sum.h
- * Desc: Header file that defines a function-like macro SUM(x, y)
- *       that computes the sum of the numbers x and y.
+ * Desc: header file for SUM(x, y) computes sum of x & y
+ * @x: first integer
+ * @y: second integer
  */
 
 #define SUM(x, y) ((x) + (y))
