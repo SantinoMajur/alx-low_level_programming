@@ -16,9 +16,9 @@ This submodule of ALX low level programming introduces C programming preprocesso
 - All your header files should be include guarded
   
 ## Tasks
-- [0. Object-like Macro]()
-- [1. Pi]()
-- [2. File name]()
-- [3. Function-like macro]()
-- [4. SUM]()
+- [0. Object-like Macro](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0D-preprocessor/0-object_like_macro.h)
+- [1. Pi](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0D-preprocessor/1-pi.h)
+- [2. File name](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0D-preprocessor/2-main.c)
+- [3. Function-like macro](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0D-preprocessor/3-function_like_macro.h)
+- [4. SUM](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0D-preprocessor/4-sum.h)
   
