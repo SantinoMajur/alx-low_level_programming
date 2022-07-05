@@ -29,6 +29,7 @@ The module is one of the foundational curriculum to the ALX Software Engineering
 - [0x0B-malloc_free](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0B-malloc_free)
 - [0x0C-more_malloc_free](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
 - [0x0D-preprocessor](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0D-preprocessor)
+- [0x0E-structures_typedef](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0E-structures_typedef)
 
 ## Author
 
