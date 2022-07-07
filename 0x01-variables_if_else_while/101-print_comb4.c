@@ -1,4 +1,4 @@
-#include <stdio.h>
+i#include <stdio.h>
 /**
  * main - prints different possible combinations of three digits
  *
@@ -8,30 +8,21 @@ int main(void)
 {
 	int i, j, k;
 
-	i = 0;
-
-	while (i < 8)
+	for (i = 0; i < 8; i++)
 	{
-		j = i + 1;
-
-		while (j < 9)
+		for (j = i + 1; j < 9; j++)
 		{
-			k = j + 1;
-
-			while (k < 10)
+			for (k = j + 1; k < 10 k++)
 			{
 				putchar((i % 10) + '0');
 				putchar((j % 10) + '0');
 				putchar((k % 10) + '0');
-				k++;
 				if ((i == 7) && (j == 8) && (k == 9))
 					continue;
 				putchar(',');
 				putchar(' ');
 			}
-			j++;
 		}
-		i++;
 	}
 	putchar('\n');
 	return (0);
