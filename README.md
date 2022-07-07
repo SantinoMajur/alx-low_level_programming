@@ -38,4 +38,4 @@ All the works contained in this respository are project based curriculum of ALX 
 
 ## Author
 
-[Santino Majur](https://github.com/SantinoMajur)
+[Santino Majur](https://github.com/SantinoMajur){:target="_blank" rel="noopener"}
