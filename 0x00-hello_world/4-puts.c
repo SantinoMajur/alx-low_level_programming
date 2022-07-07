@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 /**
  * main - prints strings followed by a new line
  *
@@ -7,8 +6,6 @@
  */
 int main(void)
 {
-	char mystr[52] = "\"Programming is like building a multilingual puzzle";
-
-	puts(mystr);
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
