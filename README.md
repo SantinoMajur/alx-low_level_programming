@@ -33,6 +33,9 @@ The module is one of the foundational curriculum to the ALX Software Engineering
 - [0x0F-function_pointers](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x0F-function_pointers)
 - [0x10-variadic_functions](https://github.com/SantinoMajur/alx-low_level_programming/tree/master/0x10-variadic_functions)
 
+## Acknowledgements 🙏
+All the works contained in this respository are project based curriculum of ALX Software Engineering Programme. ALX Software Engineering Programme is a fully online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, [alxafrica.com](https://www.alxafrica.com)
+
 ## Author
 
 [Santino Majur](https://github.com/SantinoMajur)
