@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 /**
  * main - print strings followed by a new line
  *
@@ -7,8 +6,6 @@
  */
 int main(void)
 {
-	char mystr[56] = "with proper grammer, but the outcome is a piece of art,";
-
-	putchar(mystr + '\n');
+	printf("with proper grammer, but the outcome is a piece of art,\n");
 	return (0);
 }
